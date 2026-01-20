@@ -1,4 +1,10 @@
+
 #!/bin/bash
+# Proje: Linux Otomatik Yedekleme Sistemi
+# Açıklama: Belirlenen klasörü tarih bilgisiyle sıkıştırarak yedekler.
+# Ders: Açık Kaynak İşletim Sistemleri
+# Öğrenci: Rumeysa Aslan - 2420161089
+
 
 SOURCE_DIR="$1"
 BACKUP_DIR="$2"
